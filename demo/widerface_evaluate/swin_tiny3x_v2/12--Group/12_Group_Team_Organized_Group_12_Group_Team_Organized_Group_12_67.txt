@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+3
+299 20 163 195 0.99988174 
+632 189 121 208 0.9916855 
+901 176 107 155 0.3636344 

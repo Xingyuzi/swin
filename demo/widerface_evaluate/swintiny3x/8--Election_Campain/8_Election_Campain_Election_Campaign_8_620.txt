@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+641 146 205 280 0.9998103 
+189 143 236 280 0.9980725 

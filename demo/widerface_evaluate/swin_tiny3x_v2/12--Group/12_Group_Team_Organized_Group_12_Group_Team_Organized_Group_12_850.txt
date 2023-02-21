@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_850
+3
+475 163 126 163 0.9998574 
+281 235 132 140 0.9995509 
+670 263 34 49 0.9967589 

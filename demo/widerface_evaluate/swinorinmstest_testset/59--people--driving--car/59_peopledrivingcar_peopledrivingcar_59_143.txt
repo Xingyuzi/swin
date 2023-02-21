@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_143
+2
+131 149 220 286 0.9997383 
+406 131 146 210 0.9993561 

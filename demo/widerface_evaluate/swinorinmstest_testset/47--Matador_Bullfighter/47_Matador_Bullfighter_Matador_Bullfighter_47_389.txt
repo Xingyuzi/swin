@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_389
+2
+351 225 191 218 0.9992974 
+283 577 224 357 0.4799197 

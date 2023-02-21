@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_645
+2
+262 944 421 364 0.989783 
+155 86 39 33 0.8767586 

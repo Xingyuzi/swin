@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+400 55 131 166 0.99992585 
+145 111 136 135 0.99948525 
+616 111 119 199 0.9992563 

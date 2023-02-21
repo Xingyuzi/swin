@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_269
+2
+386 197 251 323 0.9991074 
+140 1107 195 149 0.5863 

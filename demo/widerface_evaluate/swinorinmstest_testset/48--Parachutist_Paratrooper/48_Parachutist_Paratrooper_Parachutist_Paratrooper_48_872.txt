@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_872
+3
+225 263 38 48 0.9989391 
+498 269 18 26 0.9976792 
+117 287 25 29 0.9956636 

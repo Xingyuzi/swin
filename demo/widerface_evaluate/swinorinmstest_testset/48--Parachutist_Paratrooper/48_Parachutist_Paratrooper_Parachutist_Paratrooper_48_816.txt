@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_816
+2
+706 530 122 162 0.99949133 
+248 436 121 185 0.980097 

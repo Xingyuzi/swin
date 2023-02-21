@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_390
+2
+491 175 61 51 0.70131886 
+397 402 82 84 0.57926637 

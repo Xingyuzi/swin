@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_175
+2
+456 261 180 236 0.9989575 
+72 0 332 150 0.4140506 

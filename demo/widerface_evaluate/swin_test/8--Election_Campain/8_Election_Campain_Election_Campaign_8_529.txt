@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_529
+2
+287 117 158 280 0.99068123 
+422 602 110 65 0.38262427 

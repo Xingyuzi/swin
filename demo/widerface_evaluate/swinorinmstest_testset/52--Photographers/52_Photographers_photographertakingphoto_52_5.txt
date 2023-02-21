@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_5
+2
+150 346 102 175 0.9680272 
+455 82 88 100 0.9154108 

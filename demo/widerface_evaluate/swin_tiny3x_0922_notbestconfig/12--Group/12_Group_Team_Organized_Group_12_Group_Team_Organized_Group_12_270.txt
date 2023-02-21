@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270
+3
+448 16 65 78 0.9993131 
+147 77 112 144 0.80126894 
+889 73 22 25 0.37745553 

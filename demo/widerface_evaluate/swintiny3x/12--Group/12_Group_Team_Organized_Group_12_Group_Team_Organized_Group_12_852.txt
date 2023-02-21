@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852
+3
+447 173 154 220 0.9999764 
+442 566 175 148 0.7305372 
+360 614 112 123 0.6378338 

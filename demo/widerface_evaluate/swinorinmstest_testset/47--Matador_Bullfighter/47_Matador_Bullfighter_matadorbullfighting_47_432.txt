@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_432
+2
+457 180 130 187 0.99968016 
+371 1087 94 91 0.93200535 

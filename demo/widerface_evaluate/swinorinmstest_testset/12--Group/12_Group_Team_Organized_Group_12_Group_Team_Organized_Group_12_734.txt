@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_734
+3
+352 139 130 161 0.9995869 
+690 540 133 111 0.9410934 
+751 7 143 170 0.7673081 

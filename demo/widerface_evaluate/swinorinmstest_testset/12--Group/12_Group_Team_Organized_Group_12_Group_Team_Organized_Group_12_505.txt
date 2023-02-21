@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_505
+3
+692 152 149 179 0.99984515 
+463 219 154 167 0.9959345 
+473 505 117 143 0.79321957 

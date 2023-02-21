@@ -1,0 +1,4 @@
+13_Interview_Interview_2_People_Visible_13_13
+2
+654 180 109 215 0.9740767 
+665 149 170 255 0.40197 

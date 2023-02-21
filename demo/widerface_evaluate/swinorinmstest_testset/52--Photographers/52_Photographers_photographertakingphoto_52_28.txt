@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_28
+2
+235 196 45 53 0.99721825 
+263 196 41 55 0.63705236 

@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_812
+2
+484 337 79 110 0.9990741 
+598 1359 81 45 0.71878076 

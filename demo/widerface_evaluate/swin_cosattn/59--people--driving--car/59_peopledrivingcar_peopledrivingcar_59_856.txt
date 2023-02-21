@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_856
+2
+187 252 20 25 0.9826865 
+557 245 15 19 0.80118936 

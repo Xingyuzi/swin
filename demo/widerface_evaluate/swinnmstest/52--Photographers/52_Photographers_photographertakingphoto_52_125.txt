@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_125
+2
+424 117 116 114 0.8266132 
+831 147 32 66 0.7110285 

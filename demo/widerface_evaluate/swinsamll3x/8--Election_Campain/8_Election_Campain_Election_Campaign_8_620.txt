@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+652 165 193 257 0.99975735 
+199 127 229 279 0.9978175 

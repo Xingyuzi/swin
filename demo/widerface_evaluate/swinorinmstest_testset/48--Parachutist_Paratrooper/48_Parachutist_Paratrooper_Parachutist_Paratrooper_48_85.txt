@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_85
+3
+446 100 110 143 0.99791986 
+341 757 137 209 0.5266998 
+296 594 214 390 0.4687252 

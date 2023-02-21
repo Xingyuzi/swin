@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_394
+2
+253 317 218 268 0.99935216 
+122 1169 33 48 0.32525262 

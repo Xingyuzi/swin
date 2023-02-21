@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_1014
+2
+64 37 28 36 0.88311625 
+58 52 34 55 0.5405731 

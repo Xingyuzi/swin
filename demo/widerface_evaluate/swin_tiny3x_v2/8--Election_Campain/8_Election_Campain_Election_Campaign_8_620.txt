@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+217 126 209 284 0.9998379 
+650 136 200 282 0.9995352 

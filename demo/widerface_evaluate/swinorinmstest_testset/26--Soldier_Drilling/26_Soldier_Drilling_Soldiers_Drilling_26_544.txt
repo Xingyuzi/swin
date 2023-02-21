@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_544
+2
+310 256 384 552 0.8869541 
+3 435 207 488 0.714938 

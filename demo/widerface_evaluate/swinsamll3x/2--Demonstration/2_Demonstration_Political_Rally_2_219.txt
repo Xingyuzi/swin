@@ -1,0 +1,3 @@
+2_Demonstration_Political_Rally_2_219
+1
+336 244 352 476 0.9936785 

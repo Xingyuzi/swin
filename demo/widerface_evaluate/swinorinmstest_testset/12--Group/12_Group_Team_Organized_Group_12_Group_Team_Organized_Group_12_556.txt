@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_556
+3
+249 228 28 44 0.99936754 
+443 203 36 47 0.99852705 
+631 512 54 48 0.9431102 

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+630 219 115 169 0.9999329 
+283 92 138 222 0.99973124 

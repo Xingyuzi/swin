@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_608
+2
+243 481 88 129 0.99968266 
+615 440 86 131 0.9995264 

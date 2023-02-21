@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_504
+3
+700 133 90 118 0.9998622 
+421 87 112 139 0.9986866 
+170 208 81 109 0.99796814 

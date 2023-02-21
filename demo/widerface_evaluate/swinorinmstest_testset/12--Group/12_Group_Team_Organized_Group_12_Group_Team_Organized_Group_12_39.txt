@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_39
+3
+699 220 76 81 0.994718 
+865 342 8 10 0.8501027 
+148 505 13 13 0.50688475 

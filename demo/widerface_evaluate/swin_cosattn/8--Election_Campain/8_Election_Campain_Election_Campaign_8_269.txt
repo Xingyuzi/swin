@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_269
+2
+380 196 251 326 0.9991679 
+465 326 174 199 0.6990319 

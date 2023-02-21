@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+645 162 205 260 0.9995956 
+233 141 188 278 0.9995022 

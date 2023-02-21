@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_707
+2
+397 229 180 225 0.9994867 
+255 1165 90 160 0.8560723 

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_76
+2
+642 127 76 65 0.9241341 
+627 131 76 101 0.5327667 

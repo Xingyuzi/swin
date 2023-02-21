@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_327
+2
+367 289 404 314 0.98570144 
+429 97 321 206 0.44110873 

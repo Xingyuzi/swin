@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164
+3
+468 1224 129 90 0.97412914 
+619 392 197 268 0.9644699 
+420 713 329 307 0.61551696 

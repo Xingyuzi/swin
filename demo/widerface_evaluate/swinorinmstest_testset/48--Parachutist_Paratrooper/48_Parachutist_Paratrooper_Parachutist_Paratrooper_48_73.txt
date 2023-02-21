@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_73
+2
+400 292 57 91 0.911753 
+482 264 31 34 0.8666989 

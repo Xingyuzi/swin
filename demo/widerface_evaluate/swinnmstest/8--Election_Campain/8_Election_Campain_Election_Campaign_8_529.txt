@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_529
+2
+292 135 156 245 0.9976367 
+418 605 121 62 0.5575507 

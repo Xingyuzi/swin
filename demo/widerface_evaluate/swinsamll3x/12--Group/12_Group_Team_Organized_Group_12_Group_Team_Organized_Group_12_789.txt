@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_789
+3
+299 160 52 69 0.99966097 
+520 596 51 73 0.9995048 
+680 457 43 58 0.9993431 

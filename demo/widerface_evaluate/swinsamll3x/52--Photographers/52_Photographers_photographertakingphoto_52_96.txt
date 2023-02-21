@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_96
+2
+180 334 19 26 0.9944857 
+202 336 12 18 0.58008915 

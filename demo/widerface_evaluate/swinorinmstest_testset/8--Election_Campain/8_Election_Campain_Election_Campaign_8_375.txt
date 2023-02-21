@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_375
+2
+350 274 186 251 0.99953365 
+340 0 252 93 0.9839939 

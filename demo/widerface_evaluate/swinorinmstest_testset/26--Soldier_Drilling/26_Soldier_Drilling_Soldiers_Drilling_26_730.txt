@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_730
+2
+145 122 118 151 0.999701 
+473 551 171 90 0.33463746 

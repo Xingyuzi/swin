@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_30
+2
+295 263 80 93 0.9607831 
+377 430 49 71 0.33034906 

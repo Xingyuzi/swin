@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_680
+1
+354 385 260 359 0.9996474 

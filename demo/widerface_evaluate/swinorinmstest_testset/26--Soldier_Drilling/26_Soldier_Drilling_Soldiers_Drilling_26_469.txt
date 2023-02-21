@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_469
+2
+423 112 17 18 0.8063273 
+328 163 9 9 0.3133464 

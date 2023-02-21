@@ -1,0 +1,7 @@
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_1020
+5
+689 89 37 60 0.9968309 
+913 331 38 25 0.5119284 
+915 341 22 13 0.39336473 
+267 350 205 194 0.37439293 
+257 362 131 161 0.32115728 

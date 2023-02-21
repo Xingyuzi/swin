@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_282
+2
+440 221 163 181 0.99858093 
+271 493 297 158 0.5500922 

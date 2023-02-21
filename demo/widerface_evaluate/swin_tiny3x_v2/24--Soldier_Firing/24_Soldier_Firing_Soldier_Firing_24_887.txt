@@ -1,0 +1,3 @@
+24_Soldier_Firing_Soldier_Firing_24_887
+1
+623 534 66 92 0.99905664 

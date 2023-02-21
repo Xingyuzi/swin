@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+650 138 198 288 0.9992976 
+220 132 200 283 0.9979564 

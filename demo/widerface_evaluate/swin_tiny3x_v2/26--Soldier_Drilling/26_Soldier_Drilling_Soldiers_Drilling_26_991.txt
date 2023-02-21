@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_991
+2
+214 118 13 17 0.638214 
+304 93 15 17 0.3503907 

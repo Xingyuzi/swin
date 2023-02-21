@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_9
+2
+504 217 34 46 0.9995877 
+619 209 27 33 0.9982747 

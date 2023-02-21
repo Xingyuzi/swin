@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_603
+2
+433 133 216 354 0.99653864 
+1 471 10 21 0.36289355 

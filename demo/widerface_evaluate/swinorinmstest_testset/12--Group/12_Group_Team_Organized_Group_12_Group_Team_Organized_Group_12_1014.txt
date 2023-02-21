@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_1014
+3
+753 143 46 56 0.9991835 
+157 182 38 46 0.9984401 
+631 252 29 32 0.9981647 

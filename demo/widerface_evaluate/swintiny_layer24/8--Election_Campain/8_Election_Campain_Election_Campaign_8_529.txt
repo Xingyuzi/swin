@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_529
+2
+280 127 162 264 0.9980888 
+620 455 59 50 0.5068233 

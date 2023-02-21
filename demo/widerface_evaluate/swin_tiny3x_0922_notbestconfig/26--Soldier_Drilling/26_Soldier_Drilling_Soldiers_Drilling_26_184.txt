@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_184
+2
+421 304 76 126 0.9947196 
+341 1395 46 31 0.40051514 

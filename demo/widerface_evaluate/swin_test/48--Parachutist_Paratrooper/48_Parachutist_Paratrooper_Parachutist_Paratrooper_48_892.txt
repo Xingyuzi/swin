@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_892
+3
+667 176 115 172 0.9996706 
+182 254 125 162 0.99938846 
+477 132 114 155 0.9992894 

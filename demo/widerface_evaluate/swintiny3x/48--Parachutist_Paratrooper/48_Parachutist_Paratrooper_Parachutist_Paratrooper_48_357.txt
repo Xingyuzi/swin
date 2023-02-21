@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_357
+2
+335 306 342 425 0.9968815 
+0 3 285 340 0.8983037 

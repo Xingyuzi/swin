@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_180
+2
+702 106 86 120 0.9997075 
+454 607 63 83 0.84843177 

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+645 174 197 248 0.99970263 
+217 170 205 241 0.9990534 

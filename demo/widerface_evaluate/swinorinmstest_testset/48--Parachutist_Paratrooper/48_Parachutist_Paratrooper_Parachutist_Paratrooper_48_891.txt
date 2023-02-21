@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_891
+3
+450 123 120 149 0.99960524 
+682 820 80 95 0.862613 
+252 772 64 85 0.6122193 

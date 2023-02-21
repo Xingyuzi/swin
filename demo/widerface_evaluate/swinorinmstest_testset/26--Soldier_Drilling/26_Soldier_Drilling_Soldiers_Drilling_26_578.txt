@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_578
+2
+370 30 41 56 0.9991079 
+470 14 49 68 0.99634725 

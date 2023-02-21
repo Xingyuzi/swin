@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_312
+3
+579 114 93 135 0.9994991 
+366 146 77 123 0.9805729 
+325 639 125 133 0.5637705 

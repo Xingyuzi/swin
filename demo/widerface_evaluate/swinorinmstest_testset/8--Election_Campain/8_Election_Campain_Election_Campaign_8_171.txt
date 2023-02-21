@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_171
+2
+325 189 127 152 0.99967563 
+590 231 143 188 0.999645 

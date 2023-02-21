@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+629 224 129 163 0.9992449 
+287 83 127 230 0.99924374 

@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_458
+3
+481 143 119 145 0.999204 
+314 783 79 70 0.75850534 
+293 750 99 117 0.47973537 

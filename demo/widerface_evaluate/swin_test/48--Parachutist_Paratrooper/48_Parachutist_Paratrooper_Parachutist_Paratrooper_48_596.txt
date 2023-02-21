@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_596
+2
+447 182 118 130 0.8392556 
+394 208 157 196 0.3608774 

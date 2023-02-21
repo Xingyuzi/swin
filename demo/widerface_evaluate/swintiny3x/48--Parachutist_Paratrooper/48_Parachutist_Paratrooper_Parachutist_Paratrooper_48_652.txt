@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_652
+3
+347 93 117 170 0.99916184 
+628 541 87 132 0.75366795 
+271 1003 141 246 0.53358734 

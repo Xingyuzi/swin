@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_933
+3
+248 208 388 534 0.99908173 
+2 933 178 321 0.59446025 
+469 1003 544 787 0.4354255 

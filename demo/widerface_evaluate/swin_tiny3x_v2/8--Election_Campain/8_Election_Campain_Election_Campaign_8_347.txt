@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_347
+2
+216 128 27 48 0.99975425 
+757 165 23 39 0.9945116 

@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+3
+294 21 164 189 0.9998254 
+635 206 130 195 0.98464876 
+454 517 115 86 0.57368195 
